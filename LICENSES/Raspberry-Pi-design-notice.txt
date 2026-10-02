@@ -1,0 +1,29 @@
+Raspberry Pi design-file licensing notice
+
+Source: https://www.raspberrypi.com/licensing/
+Section: Design file licensing
+Read through web retrieval on 2026-10-02; direct scripted retrieval was unavailable.
+
+Most of the design files released and hosted by us are made available openly, with no limitations. Permission to use, copy, modify, and/or distribute these designs for any purpose with or without fee is hereby granted.
+
+DESIGNS ARE PROVIDED “AS IS” AND THE AUTHOR DISCLAIMS ALL WARRANTIES WITH REGARD TO THESE DESIGNS INCLUDING ALL IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS. IN NO EVENT SHALL THE AUTHOR BE LIABLE FOR ANY SPECIAL, DIRECT, INDIRECT, OR CONSEQUENTIAL DAMAGES OR ANY DAMAGES WHATSOEVER RESULTING FROM LOSS OF USE, DATA OR PROFITS, WHETHER IN AN ACTION OF CONTRACT, NEGLIGENCE OR OTHER TORTIOUS ACTION, ARISING OUT OF OR IN CONNECTION WITH THE USE OR PERFORMANCE OF THESE DESIGNS.
+
+However, some design files that we have shared on our website are from third-party manufacturers, including but not limited to Diodes, MTCONN, Toby, and TRXCOM. Terms and conditions for the use of these remain with the original manufacturer.
+
+The Niche™ antenna used in some designs is an Abracon/Proant patented antenna technology. Please contact Proant for information on licensing. No antenna design is included in this repository.
+
+CM5IO revision 2 README.TXT, verbatim below:
+Source archive: https://pip-assets.raspberrypi.com/categories/1098-design-files/documents/RP-008099-DD-1-CM5%20IO%20Board%2C%20revision%202%2C%20KiCAD%20files..zip
+Attribution: Raspberry Pi Ltd
+
+These files have been created in version 9 of KiCAD.
+
+Some of the 3d models need to be downloaded form the following places and put into the CM5IO.3shapes directory some models are approximations.
+
+https://datasheets.raspberrypi.org/cm5/CM5-step.zip
+https://www.molex.com/molex/products/part-detail/memory_card_socket/5033981892
+
+The models provided in the 3dmodels directory are from various manufacturers including Diodes, Hirose, MTCONN, Toby, TRXCOM. Terms and conditions for the use of the models remain with the original manufacture.
+
+
+Scope in this package: CM5IO-derived Nano SD socket footprint (SDCARD_MOLEX_503398-1892.kicad_mod). No CM5IO horizontal FFC footprint is included. Third-party models are not granted by this notice and are excluded.

@@ -1,0 +1,17 @@
+Astra CM5 Nano — licence scope
+
+Copyright (c) 2026 david0ha
+SPDX-License-Identifier: CERN-OHL-P-2.0
+
+Original project contributions, including the circuit, PCB layout, original
+symbols and footprints, and documentation, are made available under the CERN
+Open Hardware Licence Version 2 — Permissive. The complete unmodified licence
+is in LICENSES/CERN-OHL-P-2.0.txt.
+
+This grant covers only rights held by the project contributor. Third-party
+material retains its original terms and notices. See THIRD_PARTY.md and
+LICENSES/. The KiCad design-use exception is distinct from the CC-BY-SA-4.0
+terms for redistributed library collections.
+
+Trademarks and third-party patents are not licensed by this notice. This project
+is not endorsed by Waveshare, Raspberry Pi, KiCad or CERN.

@@ -1,0 +1,14 @@
+*.kicad_prl
+*.lck
+*-backups/
+_autosave-*
+fp-info-cache
+*.bak
+.history/
+.mcp-backups/
+.omc/
+.claude/
+.omx/
+.DS_Store
+*.log
+logs/
